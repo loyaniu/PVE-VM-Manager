@@ -1,5 +1,4 @@
-const DOMAIN = "URL";
-const TOKEN = "TOKEN";
+import { DOMAIN, TOKEN } from "./env";
 
 const VMControlAPI = {
   reboot: {
